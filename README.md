@@ -11,3 +11,4 @@ Pra escolher candidatos, é legal ver o que tem de port ate pra outros consoles,
 tem um reddit so disso: https://www.reddit.com/r/decomps/
 
 https://github.com/z3xox/BT3-Decompiled
+Eu quero fazer o port igual o do virtua fighter se possível. Não incluir a rom junto. Deixar o menos esquisito o possível
