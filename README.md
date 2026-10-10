@@ -18,3 +18,11 @@ https://github.com/ZeldaWWHDDecomp/wwhd
 
 
 https://github.com/Cwf1997/ben10protectorofearth
+
+mario party 4 foi decompilado 100 porcento
+
+super smash bross melee também 
+
+animal crossing também
+
+mas eu já vi que tinha uma galera se mexendo pra fazer desses, então é bom esperar
