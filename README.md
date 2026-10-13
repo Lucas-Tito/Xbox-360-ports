@@ -31,3 +31,4 @@ podia fazer um port desse aqui colocando multiplayer local: https://github.com/o
 
 https://decomp.dev
 
+mario strikes charged seria maneiro tambem
