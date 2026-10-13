@@ -26,3 +26,8 @@ super smash bross melee também
 animal crossing também
 
 mas eu já vi que tinha uma galera se mexendo pra fazer desses, então é bom esperar
+
+podia fazer um port desse aqui colocando multiplayer local: https://github.com/overjt/knidl
+
+https://decomp.dev
+
