@@ -34,3 +34,5 @@ https://decomp.dev
 mario strikes charged seria maneiro tambem
 
 nfsu 2
+
+https://github.com/LucasPicoli/god-hand-decomp
